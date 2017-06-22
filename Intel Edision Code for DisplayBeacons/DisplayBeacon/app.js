@@ -111,7 +111,7 @@ function ActivateBeacons(){
     payload: 'Oh Man',
     timeoutInSeconds: 30
 };
-    var hubconnectionString = 'HostName=NINJAHUB.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=FqitQVTBaCXxwSvvejNT0eBQEjqgQzUrX22dYuqUaqc=';
+    var hubconnectionString = '';
     var BeaconClient = require('azure-iothub').Client;
     var hubcontrol = BeaconClient.fromConnectionString(hubconnectionString);
     
@@ -130,7 +130,7 @@ function DeactivateBeacons(){
     payload: 'Idle',
     timeoutInSeconds: 30
 };
-    var hubconnectionString = 'HostName=NINJAHUB.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=FqitQVTBaCXxwSvvejNT0eBQEjqgQzUrX22dYuqUaqc=';
+    var hubconnectionString = '';
     var BeaconClient = require('azure-iothub').Client;
     var hubcontrol = BeaconClient.fromConnectionString(hubconnectionString);
     
