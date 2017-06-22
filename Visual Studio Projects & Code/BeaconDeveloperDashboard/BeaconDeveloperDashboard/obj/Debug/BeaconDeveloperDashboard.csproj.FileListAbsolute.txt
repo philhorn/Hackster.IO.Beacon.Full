@@ -1,0 +1,41 @@
+C:\Users\Ralf\AppData\Local\Temporary Projects\BeaconDeveloperDashboard\bin\Debug\BeaconDeveloperDashboard.exe.config
+C:\Users\Ralf\AppData\Local\Temporary Projects\BeaconDeveloperDashboard\bin\Debug\BeaconDeveloperDashboard.exe
+C:\Users\Ralf\AppData\Local\Temporary Projects\BeaconDeveloperDashboard\bin\Debug\BeaconDeveloperDashboard.pdb
+C:\Users\Ralf\AppData\Local\Temporary Projects\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.csprojResolveAssemblyReference.cache
+C:\Users\Ralf\AppData\Local\Temporary Projects\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.Form1.resources
+C:\Users\Ralf\AppData\Local\Temporary Projects\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.Properties.Resources.resources
+C:\Users\Ralf\AppData\Local\Temporary Projects\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.csproj.GenerateResource.Cache
+C:\Users\Ralf\AppData\Local\Temporary Projects\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.exe
+C:\Users\Ralf\AppData\Local\Temporary Projects\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.pdb
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\BeaconDeveloperDashboard.exe.config
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\BeaconDeveloperDashboard.exe
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\BeaconDeveloperDashboard.pdb
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\PCLCrypto.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\System.Web.Http.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\Validation.dll
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\PCLCrypto.xml
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\System.Web.Http.xml
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\bin\Debug\Validation.xml
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.csprojResolveAssemblyReference.cache
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.Form1.resources
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.Properties.Resources.resources
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.csproj.GenerateResource.Cache
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.exe
+C:\Users\Ralf\documents\visual studio 2017\Projects\BeaconDeveloperDashboard\BeaconDeveloperDashboard\obj\Debug\BeaconDeveloperDashboard.pdb

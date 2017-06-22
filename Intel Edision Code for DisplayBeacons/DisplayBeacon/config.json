@@ -1,0 +1,11 @@
+{
+  "simulatedData": true,
+  "interval": 2000,
+  "deviceId": "BeaconDisplay",
+  "LEDPin": 13,
+  "messageMax": 256,
+  "credentialPath": "~/.iot-hub",
+  "sensorPin": "A0",
+  "temperatureAlert": 30,
+  "AzureIoTHubDeviceConnectionString": "BEACON-DISPLAY-IOT-CONNECTIONSTRING-HERE" 
+}

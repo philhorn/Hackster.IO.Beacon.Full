@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="BeaconCloudBackend" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="4" osVersion="*" schemaVersion="2015-04.2.6">
+  <Role name="BeaconWorker">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=beaconbackend;AccountKey=$(_beaconbackend.key_)" />
+      <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" value="0b7777ba-c70b-4606-9888-59d05b2161e2" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>
